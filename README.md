@@ -44,3 +44,10 @@ All the users functionalities and in addition
 3).Remove a member permanently
 
 4).monitor all group messages.
+
+
+
+
+
+I am a beginner to mern and all the code might not be concise and up to standards.It is just a trial project for me
+Thanks.
