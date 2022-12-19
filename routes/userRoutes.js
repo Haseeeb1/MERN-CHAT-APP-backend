@@ -1,6 +1,6 @@
-const router = require("express").Router();
-const User = require("../models/User.js");
-const jwt = require("jsonwebtoken");
+const router = require("express").Router()
+const User = require("../models/User.js")
+const jwt = require("jsonwebtoken")
 const authenticate = require("../middleware/authenticate.js");
 
 router.post("/", async (req, res) => {
